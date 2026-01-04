@@ -253,7 +253,7 @@ echo "tx_*.beancount filter=git-crypt diff=git-crypt" >> .gitattributes
 - 📦 [GitHub Repository](https://github.com/coinbean/coinbean)
 - 📋 [Release Notes](https://github.com/coinbean/coinbean/releases)
 - 🌐 [Coinbean Website](https://coinbean.org/)
-- 🐦 [Follow on X/Twitter](https://x.com/CoinbeanAI)
+- 🐦 [Follow on X/Twitter](https://x.com/qai_lab)
 - 📚 [Beancount Docs](https://beancount.github.io/docs/)
 - 🖥️ [Fava Documentation](https://github.com/beancount/fava)
 
