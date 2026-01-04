@@ -6,7 +6,7 @@
 
 Coinbean AI - a comprehensive AI cryptocurrency portfolio tracking system, the double-entry accounting system.
 
-🌐 [coinbean.org](https://coinbean.org) | 🐦 [x.com/CoinbeanAI](https://x.com/qai_lab)
+🌐 [coinbean.org](https://coinbean.org) | [linkedin.com/company/qai-lab](https://linkedin.com/company/qai-lab) | 🐦 [x.com/qai_lab](https://x.com/qai_lab)
 
 English | [简体中文](README_zh.md) | [Français](README_fr.md) | [한국어](README_ko.md) | [日本語](README_ja.md) | [Español](README_es.md)
 
@@ -261,11 +261,11 @@ echo "tx_*.beancount filter=git-crypt diff=git-crypt" >> .gitattributes
 
 **Created by:**
 
-- **Boyuan Qian** - [@boyuanqian](https://github.com/boyuanqian) | [@boyuan_qian](https://x.com/boyuan_qian)
+- **Boyuan Qian** - GitHub: [@boyuanqian](https://github.com/boyuanqian) | Linkedin: [@boyuan_qian](https://linkedin.com/in/boyuanqian)
 
 **Organization:**
 
-- **QAI Lab** - [qai.io](https://qai.io) | [@qai-lab](https://github.com/qai-lab) | [@qai_lab](https://x.com/qai_lab)
+- **QAI Lab** - Web: [qai.io](https://qai.io) | GitHub: [@qai-lab](https://github.com/qai-lab) | X: [@qai_lab](https://x.com/qai_lab)
 
 ## License
 
